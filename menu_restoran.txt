@@ -1,0 +1,3 @@
+MAKANAN|mie|12000.0
+MINUMAN|jus|20000.0
+Diskon|bogo|0|40.0
